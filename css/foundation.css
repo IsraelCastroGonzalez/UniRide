@@ -3152,6 +3152,13 @@ meta.foundation-mq-topbar {
   .icon-bar > * {
     font-size: 1rem;
     padding: 1.25rem; }
+
+h2Black {
+	font-family: futura, Courier, Monaco, mono;
+	color: #000;
+	font-size: 36px;
+	line-height: 34px;
+}
     .icon-bar > * i + label, .icon-bar > * img + label {
       margin-top: .0625rem; }
     .icon-bar > * i {
